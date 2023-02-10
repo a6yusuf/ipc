@@ -266,7 +266,7 @@
                   </div>
                   <div class="flex flex-col md:flex-row text-center" style="margin:50px;">
                     <p class="mt-4 text-2xl px-6 py-3 text-gray-300" style="font-family: 'Roboto Condensed', sans-serif;">Make a donation</p>
-                    <a href="#" style="font-family: 'Inter', sans-serif;" class="text-white bg-transparent border border-solid animate-bounce border-white hover:bg-gray-800 hover:text-white active:bg-gray-800 font-bold uppercase text-sm px-6 py-3 rounded outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150 inline-block mt-5">
+                    <a href="https://paystack.com/pay/idcfcgjscd" style="font-family: 'Inter', sans-serif;" class="text-white bg-transparent border border-solid animate-bounce border-white hover:bg-gray-800 hover:text-white active:bg-gray-800 font-bold uppercase text-sm px-6 py-3 rounded outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150 inline-block mt-5">
                         Donate 
                     </a>
                 </div>

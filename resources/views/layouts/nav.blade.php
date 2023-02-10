@@ -78,7 +78,7 @@
             <a
             class="bg-white text-gray-800 active:bg-gray-100 text-sm font-bold uppercase px-4 py-2 rounded shadow hover:shadow-md hover:bg-gray-200 outline-none focus:outline-none lg:mr-1 lg:mb-0 ml-3 mb-3"
             style="transition: all 0.15s ease 0s; font-family: 'Lato', sans-serif;"
-            href="{{url('/donate')}}"
+            href="https://paystack.com/pay/idcfcgjscd"
             >
              Donate
             </a>
